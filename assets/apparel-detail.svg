@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 570" role="img" aria-labelledby="t d"><title id="t">Folded apparel detail illustration</title><desc id="d">Folded clothing with a simple paper product tag.</desc>
+<rect width="700" height="570" fill="#f1efe7"/><circle cx="135" cy="100" r="75" fill="#e4e5d8"/><ellipse cx="360" cy="465" rx="230" ry="27" fill="#d8d9cd"/>
+<path d="M140 205 L365 130 L560 220 L560 365 L335 440 L140 365Z" fill="#a8b8a3"/><path d="M140 205 L335 280 L560 220" fill="none" stroke="#d0d9ca" stroke-width="4"/><path d="M335 280 V440" stroke="#809981" stroke-width="4"/><path d="M140 365 L335 440 L560 365" fill="none" stroke="#809981" stroke-width="4"/>
+<path d="M200 145 L375 90 L535 155 L360 215Z" fill="#f9f5ea"/><path d="M200 145 L200 185 L360 250 L360 215Z" fill="#e6e2d5"/><path d="M360 215 L535 155 L535 195 L360 250Z" fill="#d8d8ca"/>
+<path d="M440 275 L560 290 L535 405 L415 390Z" fill="#c3a577"/><circle cx="460" cy="295" r="5" fill="#f8f0df"/><text x="455" y="345" font-family="Georgia,serif" font-size="26" fill="#fff8e9" transform="rotate(7 455 345)">PS</text><path d="M462 305 L480 309" stroke="#f8f0df" stroke-width="2"/>
+<path d="M125 410 Q175 390 225 410" fill="none" stroke="#d1b48a" stroke-width="8" stroke-linecap="round"/>
+</svg>
