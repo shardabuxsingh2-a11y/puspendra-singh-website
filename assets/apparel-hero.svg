@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 760" role="img" aria-labelledby="t d"><title id="t">Apparel collection illustration</title><desc id="d">Stylized folded garments, shirt and accessories in natural colors.</desc>
+<rect width="700" height="760" fill="#e8eee7"/><circle cx="530" cy="140" r="90" fill="#d5dfd3"/><path d="M0 570 Q180 500 350 585 T700 540 V760 H0Z" fill="#d9e3d7"/>
+<ellipse cx="350" cy="650" rx="230" ry="35" fill="#c4d1c4" opacity=".7"/>
+<!-- garment -->
+<path d="M200 180 L280 130 L350 170 L420 130 L500 180 L570 285 L495 325 L460 265 L460 570 L240 570 L240 265 L205 325 L130 285Z" fill="#f8f4e9" stroke="#c4cbbf" stroke-width="3"/>
+<path d="M280 130 L310 185 L350 215 L390 185 L420 130" fill="none" stroke="#d5d5c9" stroke-width="4"/><path d="M350 215 V540" stroke="#d5d5c9" stroke-width="3"/><circle cx="363" cy="285" r="4" fill="#8c9b8d"/><circle cx="363" cy="330" r="4" fill="#8c9b8d"/><circle cx="363" cy="375" r="4" fill="#8c9b8d"/>
+<!-- folded fabric -->
+<path d="M95 485 L280 425 L465 490 L465 590 L280 650 L95 590Z" fill="#78917b"/><path d="M95 485 L280 545 L465 490" fill="none" stroke="#9db29e" stroke-width="4"/><path d="M280 545 V650" stroke="#5e7864" stroke-width="3"/><path d="M95 590 L280 650 L465 590" fill="none" stroke="#5e7864" stroke-width="3"/>
+<!-- accessory tag -->
+<path d="M490 430 L595 455 L570 565 L465 540Z" fill="#c6a778"/><path d="M506 455 L580 473" stroke="#f4e8d2" stroke-width="3"/><circle cx="525" cy="465" r="5" fill="#f4e8d2"/><text x="528" y="510" font-family="Georgia,serif" font-size="18" fill="#fff8e9" transform="rotate(13 528 510)">PS</text>
+<path d="M185 130 C160 115 140 135 150 155 C160 175 190 190 205 200 C215 175 230 145 210 130 C200 122 192 125 185 130Z" fill="#d1b48a" opacity=".8"/>
+</svg>
